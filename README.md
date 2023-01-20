@@ -3,7 +3,7 @@
 
 ### Table of contents
 - [Description](#description)
-- [Visualisation](#Visualisation)
+- [Visualisations](#Visualisations)
 - [Author Info](#author-info)
 
 ---
