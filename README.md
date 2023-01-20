@@ -13,16 +13,23 @@ This project uses a database of all Hot 100 entries from github (https://github.
 ### Technologies and packages used:
 - Python
   - *pandas*
-      Used to clean the data
+  
+    Used to clean the data
   - *spotiPy*
-      Used to add more data on genre, song length etc
+  
+    Used to add more data on genre, song length etc
   - *numPy*
-      Used in the machine learning
+  
+    Used in the machine learning
   -Scikit-learn
-      Used to perform machine learning
+  
+    Used to perform machine learning
   - *seaborn* and *matplotlib*
-      Used to visualise the machine learning predictions
+    
+    Used to visualise the machine learning predictions
+
 -Power BI
+
 -Tableau
 
 [Back To The Top](#Billboard Hot 100 Analysis)
