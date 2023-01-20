@@ -32,7 +32,7 @@ This project uses a database of all Hot 100 entries from github (https://github.
 
 - Tableau
 
-[Back To The Top](#billboard_hot_100_analysis)
+[Back To The Top](#Billboard-Hot-100-Analysis)
 ---
 ## Visualisations
 
@@ -58,9 +58,10 @@ The final visualisation shows the feature importances after using decision tree 
 
 ![image](https://user-images.githubusercontent.com/116348107/213724956-71d7ecc4-3125-4e2a-a15f-d58c83bda254.png)
 
+  [Back To The Top](#Billboard-Hot-100-Analysis)
 ---
 ## Author Info
 
 - LinkedIn - [Jasmine Albert](https://www.linkedin.com/in/jasmine-albert-99029b207/)
 
-  [Back To The Top](#billboard_hot_100_analysis)
+  [Back To The Top](#Billboard-Hot-100-Analysis)
