@@ -28,11 +28,11 @@ This project uses a database of all Hot 100 entries from github (https://github.
     
     Used to visualise the machine learning predictions
 
--Power BI
+- Power BI
 
--Tableau
+- Tableau
 
-[Back To The Top](#Billboard Hot 100 Analysis)
+[Back To The Top](#billboard_hot_100_analysis)
 ---
 
 
